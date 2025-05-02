@@ -16,16 +16,6 @@ I'm gearing up to revolutionize the tech industry.
 I'm on a mission to build transformative products and platforms that empower businesses and individuals. Whether it's leveraging AI for smarter cities or creating seamless web and mobile experiences, my goal is to push boundaries and shape the future of technology.
 
 
-## 💼 Core Competencies
-
-- **Full-Stack Development:** React, Angular, Node.js, SpringBoot
-- **Machine Learning & AI:** TensorFlow, Keras, CNNs, U-Net, real-time image processing
-- **Cloud & DevOps:** Docker, Jenkins, Prometheus, Grafana
-- **Databases:** PostgreSQL, MongoDB, Snowflake Schema for BI
-- **Design & Media:** Figma, freelance video editing & graphic design 
-
-
-
 ## 🎯 Let's Build the Future
 
 I'm always open to new challenges, collaborations, and opportunities to innovate. Feel free to explore my projects, star the repos, and connect!
