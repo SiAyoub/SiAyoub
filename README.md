@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Ayoub Marzougui**, a Software Engineering student at Esprit, Ariana, Tunisia, graduating this year. I'm driven by a passion for cutting-edge technology, from full-stack development to  machine learning and AI.
+Hello! I'm **Ayoub Marzougui**, a Software Engineer. I'm driven by a passion for cutting-edge technology, from full-stack development to  machine learning and AI.
 I'm gearing up to revolutionize the tech industry.
 
 
