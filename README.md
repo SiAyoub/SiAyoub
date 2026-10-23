@@ -16,10 +16,6 @@ I'm gearing up to revolutionize the tech industry.
 I'm on a mission to build transformative products and platforms that empower businesses and individuals. Whether it's leveraging AI for smarter cities or creating seamless web and mobile experiences, my goal is to push boundaries and shape the future of technology.
 
 
-## 🎯 Let's Build the Future
-
-I'm always open to new challenges, collaborations, and opportunities to innovate. Feel free to explore my projects, star the repos, and connect!
-
 - 📫 **Email:** marzougui.ayoub@outlook.com
 - 💼 **LinkedIn:** [Ayoub Marzougui]((https://www.linkedin.com/in/ayoub--marzougui/))
 
