@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Ayoub Marzougui**, a Software Engineer. I'm driven by a passion for cutting-edge technology, from full-stack development to  machine learning and AI.
+Hello! I'm **Ayoub Marzougui**, a Software Engineer. I'm driven by a passion for technology, from full-stack development to  Cloud and AI.
 I'm gearing up to revolutionize the tech industry.
 
 
@@ -13,7 +13,7 @@ I'm gearing up to revolutionize the tech industry.
 
 > "Innovate fearlessly. Lead boldy. Impact globally."  
 
-I'm on a mission to build transformative products and platforms that empower businesses and individuals. Whether it's leveraging AI for smarter cities or creating seamless web and mobile experiences, my goal is to push boundaries and shape the future of technology.
+My goal is to push boundaries.
 
 
 - 📫 **Email:** marzougui.ayoub@outlook.com
