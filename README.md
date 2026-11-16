@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 Hello! I'm **Ayoub Marzougui**, a Software Engineer. I'm driven by a passion for technology, from full-stack development to  Cloud and AI.
-I'm gearing up to revolutionize the tech industry.
+I'm gearing up to what's comming.
 
 
 ## 🌟 Mission & Vision
